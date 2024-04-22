@@ -4,7 +4,7 @@ st.title("AI Elite Streamlit Demo")
 
 st.header("Session for Elite-18")
 
-st.subheader("by Lakshmi Teja")
+st.subheader("by Dadi Bhanu")
 
 name = st.text_input("Please enter your name:")
 
